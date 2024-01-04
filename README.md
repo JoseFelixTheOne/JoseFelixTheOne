@@ -1,7 +1,10 @@
 <img src="./header.png" alt="header with content of developer Jose Felix"/>
 
 ## About Me
-I'm a passionate Java Developer with expertise in Go. I have a knack for crafting efficient, scalable solutions and love diving into complex challenges. My journey in software development has exposed me to a variety of technologies including MongoDB, SQL Server, MySQL, and much more.
+- 👨‍💻 Backend Developer
+- 🎓 Graduated from Cibertec in Computer Science and Informatics. Currently advancing my knowledge and skills.
+- 🔧 Proficient in Java; extensively use Golang (mainly in private repositories due to work commitments).
+- 🌌 Currently gaining practical experience in Cosmos, eager to explore new opportunities.
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
