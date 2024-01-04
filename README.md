@@ -1,4 +1,5 @@
 <img src="./header.png" alt="header with content of developer Jose Felix"/>
+<img src="https://komarev.com/ghpvc/?username=JoseFelixTheOne&color=11009E&style=plastic" alt="Profile view counter">
 
 ## About Me
 - 👨‍💻 Backend Developer
