@@ -1,5 +1,8 @@
 ### Hi there, I'm José Felix 👋
 
+## About Me
+I'm a passionate Java Developer with expertise in Go. I have a knack for crafting efficient, scalable solutions and love diving into complex challenges. My journey in software development has exposed me to a variety of technologies including MongoDB, SQL Server, MySQL, and much more.
+
 <!--
 **JoseFelixTheOne/JoseFelixTheOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
