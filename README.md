@@ -7,6 +7,15 @@
 - 🔧 Proficient in Java; extensively use Golang (mainly in private repositories due to work commitments).
 - 🌌 Currently gaining practical experience in Cosmos, eager to explore new opportunities.
 
+## Knowledge
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,golang,angular,javascript,git,github,bootstrap,css,html,idea,eclipse,vscode,kotlin,ts,postman,net,androidstudio,sqlite,react,docker,firebase,azure,&perline=14" />
+  </a>
+</p>
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/JoseFelixTheOne">
