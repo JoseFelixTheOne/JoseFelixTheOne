@@ -2,17 +2,18 @@
 <img src="https://komarev.com/ghpvc/?username=JoseFelixTheOne&color=11009E&style=plastic" alt="Profile view counter">
 
 ## About Me
-- 👨‍💻 Backend Developer
-- 🎓 Graduated from Cibertec in Computer Science and Informatics. Currently advancing my knowledge and skills.
-- 🔧 Proficient in Java; extensively use Golang (mainly in private repositories due to work commitments).
-- 🌌 Currently gaining practical experience in Cosmos, eager to explore new opportunities.
+- 👨‍💻 Backend Developer & Data Analyst
+- 🎓 Graduated from Cibertec in Computer Science and Informatics. Currently expanding my skills in Data Science and Systems Engineering.
+- 🔧 Proficient in Python, SQL, and Golang (most projects in private repositories due to work restrictions).
+- 📊 Passionate about solving real-world problems through data and backend architecture.
+- 💼 Currently working at T-ID Solutions. Planning to resume uploading personal Python and data-related projects soon.
 
 ## Knowledge
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,golang,angular,javascript,git,github,bootstrap,css,html,idea,eclipse,vscode,kotlin,ts,postman,net,androidstudio,sqlite,react,docker,firebase,azure,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,django,golang,java,spring,mysql,mongodb,angular,javascript,git,github,bootstrap,css,html,idea,eclipse,vscode,kotlin,ts,postman,androidstudio,sqlite,react,docker,firebase,azure,&perline=14" />
   </a>
 </p>
 
@@ -28,7 +29,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Cosmos with Golang  
+- 🔭 I’m currently working on T-ID Solutions with SQL, Python and Azure  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
