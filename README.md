@@ -13,7 +13,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,golang,java,spring,mysql,mongodb,angular,javascript,git,github,bootstrap,css,html,idea,eclipse,vscode,kotlin,ts,postman,androidstudio,sqlite,react,docker,firebase,azure,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,golang,mysql,mongodb,angular,javascript,git,github,bootstrap,css,html,java,spring,idea,vscode,kotlin,ts,postman,sqlite,react,docker,firebase,azure,gcp&perline=14" />
   </a>
 </p>
 
